@@ -1,5 +1,4 @@
 # CustomListBox
-<<<<<<< HEAD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
 
@@ -13,14 +12,13 @@ Install Wijmo dependencies from your local path on machine or CDN.
 
 #Example:
 
-`npm install "../wijmo_download/NpmImages/wijmo-amd-min"`
+`npm install "../wijmo_download/NpmImages/wijmo-commonjs-min"`
 or
-`npm install "http://prerelease.componentone.com/wijmo5/npm-images/C1Wijmo-Engerprise-Eval-System-5.220172.334.tgz"`
+`npm install "http://prerelease.componentone.com/wijmo5/npm-images/C1Wijmo-Engerprise-Eval-CommonJs-5.220172.359.tgz"`
 
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 
-=======
-extends the Wijmo ListBox control
->>>>>>> 8366046b20128e217f380bcf7cb8cb9e198e9de0
+#Description:
+Example of extending the Wijmo ListBox control
